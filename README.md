@@ -33,7 +33,7 @@ Este projeto foi idealizado para suprir a necessidade de uma gestão financeira 
 
 ## 📈 Visualização do Sistema
 
-![Análises Financeiras](Analises.PNG)
+![Análises Financeiras](Analisa.PNG)
 ![Registro de Contas a Pagar](Contas%20a%20pagar.PNG)
 ![Registro de Recebíveis](Valores%20a%20receber.PNG)
 
@@ -49,5 +49,7 @@ A separação técnica entre **bases de dados (fatos)** e **painéis de visão (
 2. Habilite o conteúdo ao abrir no Excel.
 3. Utilize os filtros nas colunas para personalizar a visualização (mês, fornecedor ou categoria).
 
+---
+*Desenvolvido com foco em análise de dados e eficiência administrativa.*
 ---
 *Desenvolvido com foco em análise de dados e eficiência administrativa.*
