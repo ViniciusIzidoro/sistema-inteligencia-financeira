@@ -33,7 +33,7 @@ Este projeto foi idealizado para suprir a necessidade de uma gestão financeira 
 
 ## 📈 Visualização do Sistema
 
-![Análises Financeiras](Analisa.PNG)
+![Análises Financeiras](Analises.PNG)
 ![Registro de Contas a Pagar](Contas%20a%20pagar.PNG)
 ![Registro de Recebíveis](Valores%20a%20receber.PNG)
 
